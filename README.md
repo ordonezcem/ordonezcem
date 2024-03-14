@@ -1,4 +1,4 @@
-### Hi there 👋, I am Cristian Ordoñez
+### Hi there 👋, I am Cristian
 
 <!--
 **ordonezcem/ordonezcem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
