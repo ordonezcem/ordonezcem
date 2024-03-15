@@ -7,14 +7,14 @@ In this repository, I showcase some of the projects I've been working on through
 ## Skills: 
 • C
 • Python
-• Assembler:
-• C++:
+• Assembler
+• C++
 • VHDL
 • MATLAB, OPENCV
-• Computer vision, object tracking, image enhancement, image algorithm optimization.
-• Embedded systems, ARM microcontrollers (Cortex-M4, Cortex-M7).
-• Real-time embedded systems, FreeRTOS, Segger systemview.
-• Arduino, PIC microcontrollers, FPGAs.
-• SMT32CubeIDE, Keil, Yakindu.
-• PCB design, Altium Designer.
-• Research and education.
+• Computer vision, object tracking, image enhancement, image algorithm optimization
+• Embedded systems, ARM microcontrollers (Cortex-M4, Cortex-M7)
+• Real-time embedded systems, FreeRTOS, Segger systemview
+• Arduino, PIC microcontrollers, FPGAs
+• SMT32CubeIDE, Keil, Yakindu
+• PCB design, Altium Designer
+• Research and education
